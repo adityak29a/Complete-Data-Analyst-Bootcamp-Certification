@@ -52,4 +52,4 @@ Aspiring **Data Analyst** with hands-on experience in data cleaning, SQL queryin
 
 ---
 
-⭐ *Actively building Data Analytics projects and open to internship/full-time opportunities.
+*Actively building Data Analytics projects and open to internship/full-time opportunities.
